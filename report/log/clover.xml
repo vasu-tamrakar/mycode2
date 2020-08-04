@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1596520097">
-  <project timestamp="1596520097">
+<coverage generated="1596523645">
+  <project timestamp="1596523645">
     <file name="C:\xampp\htdocs\mycode2\main/App.php">
       <class name="App" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="6" coveredelements="6"/>
