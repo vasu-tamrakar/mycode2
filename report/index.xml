@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <phpunit xmlns="https://schema.phpunit.de/coverage/1.0">
-  <build time="Tue Aug 4 8:01:13 GMT+0000 2020" phpunit="7.0.0" coverage="6.0.5">
+  <build time="Tue Aug 4 8:34:38 GMT+0000 2020" phpunit="7.0.0" coverage="6.0.5">
     <runtime name="PHP" version="7.3.19" url="https://secure.php.net/"/>
     <driver name="xdebug" version="2.8.1"/>
   </build>
