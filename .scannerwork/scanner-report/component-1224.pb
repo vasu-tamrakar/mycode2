@@ -1,1 +1,0 @@
-È	 2xmlXhrHvendor/phpunit/phpunit/tests/_files/structureWrongNumberOfAttributes.xml

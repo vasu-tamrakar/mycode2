@@ -1,1 +1,0 @@
-» 2xmlXhrCvendor/phar-io/manifest/tests/_fixture/invalidversionconstraint.xml

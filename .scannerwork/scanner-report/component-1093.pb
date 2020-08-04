@@ -1,1 +1,0 @@
-Å 2xmlXhrBvendor/phpunit/phpunit/tests/_files/configuration.colors.empty.xml

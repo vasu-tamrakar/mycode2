@@ -2,35 +2,29 @@
 <phpunit xmlns="https://schema.phpunit.de/coverage/1.0">
   <file name="App.php" path="\">
     <totals>
-      <lines total="18" comments="0" code="18" executable="6" executed="4" percent="66.67"/>
-      <methods count="4" tested="2" percent="50.00"/>
+      <lines total="36" comments="0" code="36" executable="17" executed="3" percent="17.65"/>
+      <methods count="4" tested="1" percent="25.00"/>
       <functions count="0" tested="0" percent="0"/>
       <classes count="1" tested="0" percent="0.00"/>
       <traits count="0" tested="0" percent="0"/>
     </totals>
-    <class name="App" start="2" executable="6" executed="4" crap="4.59">
+    <class name="App" start="2" executable="17" executed="3" crap="54.24">
       <package full="" name="" sub="" category=""/>
       <namespace name=""/>
-      <method name="getUser" signature="getUser()" start="5" end="7" crap="2.00" executable="1" executed="0" coverage="0"/>
-      <method name="setUser" signature="setUser($first,$last)" start="8" end="12" crap="1" executable="3" executed="3" coverage="100"/>
-      <method name="getfirst_name" signature="getfirst_name()" start="13" end="15" crap="1" executable="1" executed="1" coverage="100"/>
-      <method name="getlast_name" signature="getlast_name()" start="16" end="18" crap="2.00" executable="1" executed="0" coverage="0"/>
+      <method name="getUser" signature="getUser()" start="5" end="11" crap="12.00" executable="3" executed="0" coverage="0"/>
+      <method name="setUser" signature="setUser($first,$last)" start="12" end="16" crap="1" executable="3" executed="3" coverage="100"/>
+      <method name="getage" signature="getage($age)" start="17" end="33" crap="20.00" executable="10" executed="0" coverage="0"/>
+      <method name="getlast_name" signature="getlast_name()" start="34" end="36" crap="2.00" executable="1" executed="0" coverage="0"/>
     </class>
     <coverage>
-      <line nr="9">
+      <line nr="13">
         <covered by="Test::testset"/>
-        <covered by="Test::testFistname"/>
-      </line>
-      <line nr="10">
-        <covered by="Test::testset"/>
-        <covered by="Test::testFistname"/>
-      </line>
-      <line nr="11">
-        <covered by="Test::testset"/>
-        <covered by="Test::testFistname"/>
       </line>
       <line nr="14">
-        <covered by="Test::testFistname"/>
+        <covered by="Test::testset"/>
+      </line>
+      <line nr="15">
+        <covered by="Test::testset"/>
       </line>
     </coverage>
     <source>
@@ -70,6 +64,28 @@
       </line>
       <line no="6">
         <token name="T_WHITESPACE">        </token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_ISSET">isset</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$this</token>
+        <token name="T_OBJECT_OPERATOR">-&gt;</token>
+        <token name="T_STRING">first_name</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_BOOLEAN_AND">&amp;&amp;</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_ISSET">isset</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$this</token>
+        <token name="T_OBJECT_OPERATOR">-&gt;</token>
+        <token name="T_STRING">last_name</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="7">
+        <token name="T_WHITESPACE">            </token>
         <token name="T_RETURN">return</token>
         <token name="T_WHITESPACE"> </token>
         <token name="T_ARRAY">array</token>
@@ -89,11 +105,30 @@
         <token name="T_CLOSE_BRACKET">)</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="7">
+      <line no="8">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="9">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_RETURN">return</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_ARRAY">array</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="10">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="11">
         <token name="T_WHITESPACE">    </token>
         <token name="T_CLOSE_CURLY">}</token>
       </line>
-      <line no="8">
+      <line no="12">
         <token name="T_WHITESPACE">    </token>
         <token name="T_PUBLIC">public</token>
         <token name="T_WHITESPACE"> </token>
@@ -107,7 +142,7 @@
         <token name="T_CLOSE_BRACKET">)</token>
         <token name="T_OPEN_CURLY">{</token>
       </line>
-      <line no="9">
+      <line no="13">
         <token name="T_WHITESPACE">        </token>
         <token name="T_VARIABLE">$this</token>
         <token name="T_OBJECT_OPERATOR">-&gt;</token>
@@ -117,7 +152,7 @@
         <token name="T_VARIABLE">$first</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="10">
+      <line no="14">
         <token name="T_WHITESPACE">        </token>
         <token name="T_VARIABLE">$this</token>
         <token name="T_OBJECT_OPERATOR">-&gt;</token>
@@ -126,42 +161,139 @@
         <token name="T_VARIABLE">$last</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="11">
+      <line no="15">
         <token name="T_WHITESPACE">        </token>
         <token name="T_RETURN">return</token>
         <token name="T_WHITESPACE"> </token>
         <token name="T_STRING">true</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="12">
+      <line no="16">
         <token name="T_WHITESPACE">    </token>
         <token name="T_CLOSE_CURLY">}</token>
       </line>
-      <line no="13">
+      <line no="17">
         <token name="T_WHITESPACE">    </token>
         <token name="T_PUBLIC">public</token>
         <token name="T_WHITESPACE"> </token>
         <token name="T_FUNCTION">function</token>
         <token name="T_WHITESPACE"> </token>
-        <token name="T_STRING">getfirst_name</token>
+        <token name="T_STRING">getage</token>
         <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$age</token>
         <token name="T_CLOSE_BRACKET">)</token>
         <token name="T_OPEN_CURLY">{</token>
       </line>
-      <line no="14">
+      <line no="18">
         <token name="T_WHITESPACE">        </token>
-        <token name="T_RETURN">return</token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$age</token>
         <token name="T_WHITESPACE"> </token>
-        <token name="T_VARIABLE">$this</token>
-        <token name="T_OBJECT_OPERATOR">-&gt;</token>
-        <token name="T_STRING">first_name</token>
+        <token name="T_GT">&gt;</token>
+        <token name="T_LNUMBER">18</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="19">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Adult'</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="15">
+      <line no="20">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="21">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Children'</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="22">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="23">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$age</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_GT">&gt;</token>
+        <token name="T_LNUMBER">18</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="24">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Adult'</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="25">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="26">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Children'</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="27">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="28">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$age</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_GT">&gt;</token>
+        <token name="T_LNUMBER">18</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="29">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Adult'</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="30">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="31">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_ECHO">echo</token>
+        <token name="T_WHITESPACE"> </token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">'Children'</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="32">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="33">
         <token name="T_WHITESPACE">    </token>
         <token name="T_CLOSE_CURLY">}</token>
       </line>
-      <line no="16">
+      <line no="34">
         <token name="T_WHITESPACE">    </token>
         <token name="T_PUBLIC">public</token>
         <token name="T_WHITESPACE"> </token>
@@ -172,7 +304,7 @@
         <token name="T_CLOSE_BRACKET">)</token>
         <token name="T_OPEN_CURLY">{</token>
       </line>
-      <line no="17">
+      <line no="35">
         <token name="T_WHITESPACE">        </token>
         <token name="T_RETURN">return</token>
         <token name="T_WHITESPACE"> </token>
@@ -181,11 +313,11 @@
         <token name="T_STRING">last_name</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="18">
+      <line no="36">
         <token name="T_WHITESPACE">    </token>
         <token name="T_CLOSE_CURLY">}</token>
       </line>
-      <line no="19">
+      <line no="37">
         <token name="T_CLOSE_CURLY">}</token>
       </line>
     </source>

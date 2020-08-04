@@ -1,1 +1,0 @@
-¢ 2xmlXhr*vendor/phpunit/php-code-coverage/build.xml

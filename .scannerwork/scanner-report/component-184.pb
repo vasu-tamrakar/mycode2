@@ -1,1 +1,0 @@
-¸ 2xmlXhrFvendor/phar-io/manifest/tests/_fixture/extension-invalidcompatible.xml

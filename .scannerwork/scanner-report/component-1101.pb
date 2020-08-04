@@ -1,1 +1,0 @@
-Í 2xmlX„hr5vendor/phpunit/phpunit/tests/_files/configuration.xml

@@ -1,1 +1,0 @@
-] 2xmlX3hr!vendor/phar-io/manifest/build.xml

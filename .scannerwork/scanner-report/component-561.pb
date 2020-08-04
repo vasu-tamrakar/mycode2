@@ -1,1 +1,0 @@
-± 2webXÂhruvendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForFileWithIgnoredLines/source_with_ignore.php.html

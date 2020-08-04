@@ -1,1 +1,0 @@
-¼ 2xmlXhr2vendor/phar-io/manifest/tests/_fixture/library.xml

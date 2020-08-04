@@ -1,1 +1,0 @@
-¾ 2xmlX/hr8vendor/phar-io/manifest/tests/_fixture/phpunit-5.6.5.xml

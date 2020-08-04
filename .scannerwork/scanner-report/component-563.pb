@@ -1,1 +1,0 @@
-³ 2xmlX"hrYvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForBankAccount/index.xml

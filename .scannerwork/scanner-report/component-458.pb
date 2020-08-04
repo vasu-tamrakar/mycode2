@@ -1,1 +1,0 @@
-Ê 2cssXhrQvendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/css/custom.css

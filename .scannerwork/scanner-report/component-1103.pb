@@ -1,1 +1,0 @@
-Ï 2xmlXhrEvendor/phpunit/phpunit/tests/_files/configuration_stop_on_warning.xml

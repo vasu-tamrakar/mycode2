@@ -54,12 +54,13 @@ Project scanner properties:
   - sonar.SONAR_TOKEN=2e74398f2757da0d08e379b8cc9610bf139399ff
   - sonar.host.url=https://sonarcloud.io
   - sonar.organization=vasu-tamrakar
-  - sonar.php.coverage.reportPath=report/log/clover.xml
+  - sonar.php.coverage.reportPath=report/index.html
   - sonar.projectBaseDir=C:\xampp\htdocs\mycode2
   - sonar.projectKey=mycode2
   - sonar.scanner.app=ScannerCLI
   - sonar.scanner.appVersion=4.4.0.2170
   - sonar.sourceEncoding=windows-1252
-  - sonar.sources=.
+  - sonar.sources=./main
+  - sonar.tests=./test
   - sonar.verbose=true
   - sonar.working.directory=C:\xampp\htdocs\mycode2\.scannerwork

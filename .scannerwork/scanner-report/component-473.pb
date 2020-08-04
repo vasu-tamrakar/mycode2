@@ -1,1 +1,0 @@
-Ù 2jsX>hrMvendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/file.js

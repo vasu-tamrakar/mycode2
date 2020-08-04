@@ -1,1 +1,0 @@
-þ 2xmlX<hrDvendor/phpunit/php-code-coverage/tests/_files/BankAccount-crap4j.xml

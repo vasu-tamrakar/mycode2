@@ -1,1 +1,0 @@
-² 2xmlX‡hrcvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForBankAccount/BankAccount.php.xml

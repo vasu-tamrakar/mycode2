@@ -1,1 +1,0 @@
-º 2xmlXhr9vendor/phar-io/manifest/tests/_fixture/invalidversion.xml

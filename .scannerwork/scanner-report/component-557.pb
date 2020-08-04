@@ -1,1 +1,0 @@
-­ 2webXyhrjvendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForClassWithAnonymousFunction/index.html

@@ -1,1 +1,0 @@
-È 2xmlXhrAvendor/phpunit/phpunit/tests/_files/configuration.colors.true.xml

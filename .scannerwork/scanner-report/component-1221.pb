@@ -1,1 +1,0 @@
-Å	 2xmlXhr9vendor/phpunit/phpunit/tests/_files/structureExpected.xml

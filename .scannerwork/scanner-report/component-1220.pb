@@ -1,1 +1,0 @@
-Ä	 2xmlXhrQvendor/phpunit/phpunit/tests/_files/structureAttributesAreSameButValuesAreNot.xml
