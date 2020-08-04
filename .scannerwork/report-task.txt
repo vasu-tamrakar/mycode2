@@ -1,0 +1,7 @@
+organization=vasu-tamrakar
+projectKey=mycode2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.10334
+dashboardUrl=https://sonarcloud.io/dashboard?id=mycode2
+ceTaskId=AXO43fg8IltPvIUNB0kx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXO43fg8IltPvIUNB0kx
