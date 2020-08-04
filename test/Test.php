@@ -22,7 +22,7 @@ class Test extends TestCase {
         $rt = $user->setUser('vtest','lastv');
         $fname = $user->getfirst_name();
         $this->assertEquals('vtest',$fname);
-        $rts = $user->getage(19);
+        // $rts = $user->getage(19);
         return true;
     }
 }
