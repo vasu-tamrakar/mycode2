@@ -1,0 +1,1 @@
+Ë 2xmlXhrDvendor/phpunit/phpunit/tests/_files/configuration.one-file-suite.xml

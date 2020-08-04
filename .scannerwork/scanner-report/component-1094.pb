@@ -1,0 +1,1 @@
+Æ 2xmlXhrBvendor/phpunit/phpunit/tests/_files/configuration.colors.false.xml

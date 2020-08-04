@@ -1,0 +1,1 @@
+® 2webXªhr‘vendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForClassWithAnonymousFunction/source_with_class_and_anonymous_function.php.html

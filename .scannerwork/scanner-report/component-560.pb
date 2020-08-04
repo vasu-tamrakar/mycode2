@@ -1,0 +1,1 @@
+° 2webXohrdvendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForFileWithIgnoredLines/index.html

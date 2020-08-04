@@ -1,0 +1,1 @@
+½ 2xmlXhr3vendor/phar-io/manifest/tests/_fixture/manifest.xml

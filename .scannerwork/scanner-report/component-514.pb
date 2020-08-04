@@ -1,0 +1,1 @@
+‚ 2xmlXhrVvendor/phpunit/php-code-coverage/tests/_files/class-with-anonymous-function-clover.xml

@@ -1,0 +1,1 @@
+¬ 2webX¢hrnvendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForClassWithAnonymousFunction/dashboard.html

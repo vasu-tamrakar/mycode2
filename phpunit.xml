@@ -10,7 +10,7 @@
 
     <testsuites>
         <testsuite name="Example2">
-            <directory>./test</directory>
+            <directory suffix=".php">./test</directory>
         </testsuite>
     </testsuites>
 
@@ -20,9 +20,10 @@
         </whitelist>
     </filter>
     <logging>        
-        <log type="coverage-html" target="/report" lowUpperBound="35"
+        <log type="coverage-html" target="/report/index.html" lowUpperBound="35"
             highLowerBound="70"/>
         <log type="coverage-clover" target="/report/log/clover.xml"/>
+        <log type="coverage-clover" target="/report/index.xml"/>
         <log type="coverage-php" target="/report/coverage.serialized"/>
         <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"/>
         <log type="junit" target="/report/junit.xml"/>

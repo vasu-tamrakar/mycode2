@@ -1,0 +1,1 @@
+ª 2webX¤hr_vendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForBankAccount/dashboard.html

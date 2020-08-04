@@ -1,0 +1,1 @@
+Æ	 2xmlXhr@vendor/phpunit/phpunit/tests/_files/structureIgnoreTextNodes.xml

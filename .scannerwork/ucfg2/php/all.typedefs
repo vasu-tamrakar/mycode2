@@ -3464,10 +3464,14 @@ firstornew0illuminate\database\eloquent\builder::firstornew@
 setquery.illuminate\database\eloquent\builder::setquery:
 getquery.illuminate\database\eloquent\builder::getquery8
 orwhere-illuminate\database\eloquent\builder::orwhere<
-	getmodels/illuminate\database\eloquent\builder::getmodelsN
+	getmodels/illuminate\database\eloquent\builder::getmodels–
 app
 setuserapp::setuser
-getuserapp::getuser"	last_name"
-first_name<
-testphpunit\framework\testcase
-testsettest::testset
+getuserapp::getuser#
+getfirst_nameapp::getfirst_name!
+getlast_nameapp::getlast_name"	last_name"
+first_namez
+testphpunit\framework\testcase"
+testfistnametest::testfistname
+testsettest::testset
+gettesttest::gettest

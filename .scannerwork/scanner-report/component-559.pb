@@ -1,0 +1,1 @@
+¯ 2webX hrhvendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForFileWithIgnoredLines/dashboard.html

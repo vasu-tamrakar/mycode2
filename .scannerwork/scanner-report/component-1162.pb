@@ -1,0 +1,1 @@
+Š	 2xmlXhr+vendor/phpunit/phpunit/tests/_files/foo.xml

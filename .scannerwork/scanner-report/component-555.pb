@@ -1,0 +1,1 @@
+« 2webXyhr[vendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForBankAccount/index.html

@@ -1,0 +1,1 @@
+¶ 2xmlXhrbvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForFileWithIgnoredLines/index.xml

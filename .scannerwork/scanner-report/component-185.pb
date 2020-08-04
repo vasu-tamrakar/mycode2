@@ -1,0 +1,1 @@
+¹ 2xmlXhr4vendor/phar-io/manifest/tests/_fixture/extension.xml

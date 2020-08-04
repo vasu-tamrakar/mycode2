@@ -1,0 +1,1 @@
+Ò 2xmlXhrCvendor/phpunit/phpunit/tests/Regression/GitHub/1265/phpunit1265.xml

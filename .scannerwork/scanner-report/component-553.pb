@@ -1,0 +1,1 @@
+© 2webX÷hrevendor/phpunit/php-code-coverage/tests/_files/Report/HTML/CoverageForBankAccount/BankAccount.php.html

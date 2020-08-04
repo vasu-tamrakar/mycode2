@@ -1,0 +1,1 @@
+™ 2xmlXhrFvendor/phpunit/php-code-coverage/tests/_files/ignored-lines-clover.xml

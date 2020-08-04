@@ -1,0 +1,1 @@
+´ 2xmlXhrhvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForClassWithAnonymousFunction/index.xml

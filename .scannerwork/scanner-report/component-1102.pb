@@ -1,0 +1,1 @@
+Î 2xmlX2hr;vendor/phpunit/phpunit/tests/_files/configuration_empty.xml

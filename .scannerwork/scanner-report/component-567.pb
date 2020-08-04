@@ -1,0 +1,1 @@
+· 2xmlX¼hrsvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForFileWithIgnoredLines/source_with_ignore.php.xml

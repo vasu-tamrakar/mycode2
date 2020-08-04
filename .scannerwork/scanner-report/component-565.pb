@@ -1,0 +1,1 @@
+µ 2xmlX¢hrèvendor/phpunit/php-code-coverage/tests/_files/Report/XML/CoverageForClassWithAnonymousFunction/source_with_class_and_anonymous_function.php.xml

@@ -1,0 +1,1 @@
+Š 2xmlXhr)vendor/sebastian/global-state/phpunit.xml

@@ -17,91 +17,103 @@ M
 WebS1827)Remove this deprecated "align" attribute. 2ZZ 2C
 WebS1827)Remove this deprecated "align" attribute. 2bb  3C
 WebS1827)Remove this deprecated "align" attribute. 2cc  3C
-WebS1827)Remove this deprecated "align" attribute. 2nn  3C
-WebS1827)Remove this deprecated "align" attribute. 2oo  3C
-WebS1827)Remove this deprecated "align" attribute. 2ww  3C
-WebS1827)Remove this deprecated "align" attribute. 2xx  3E
+WebS1827)Remove this deprecated "align" attribute. 2nn 2C
+WebS1827)Remove this deprecated "align" attribute. 2oo 2C
+WebS1827)Remove this deprecated "align" attribute. 2ww 2C
+WebS1827)Remove this deprecated "align" attribute. 2xx 2E
 WebS1827)Remove this deprecated "align" attribute. 2
-ÉÉ 2E
+ÉÉ  3E
 WebS1827)Remove this deprecated "align" attribute. 2
-ÑÑ 2E
+ÑÑ  3E
 WebS1827)Remove this deprecated "align" attribute. 2
 åå  3E
 WebS1827)Remove this deprecated "align" attribute. 2
-çç  3O
+çç  3E
+WebS1827)Remove this deprecated "align" attribute. 2
+òò  3E
+WebS1827)Remove this deprecated "align" attribute. 2
+ôô  3E
+WebS1827)Remove this deprecated "align" attribute. 2
+°°  3E
+WebS1827)Remove this deprecated "align" attribute. 2
+¢¢  3E
+WebS1827)Remove this deprecated "align" attribute. 2
+≠≠ 2E
+WebS1827)Remove this deprecated "align" attribute. 2
+ÆÆ 2E
+WebS1827)Remove this deprecated "align" attribute. 2
+∂∂ 2E
+WebS1827)Remove this deprecated "align" attribute. 2
+∑∑ 2O
 WebTableWithoutCaptionCheck Add a description to this table. 2
-ìì CA
+ΩΩ CA
 WebS5256%Add "<th>" headers to this "<table>". 2
-ìì CE
+ΩΩ CE
 WebS1827)Remove this deprecated "align" attribute. 2
-ïï  D
+øø  D
 WebS1827(Remove this deprecated "name" attribute. 2
-ïï  ,E
+øø  ,E
 WebS1827)Remove this deprecated "align" attribute. 2
-ññ  D
+¿¿  D
 WebS1827(Remove this deprecated "name" attribute. 2
-ññ  ,E
+¿¿  ,E
 WebS1827)Remove this deprecated "align" attribute. 2
-óó  D
+¡¡  D
 WebS1827(Remove this deprecated "name" attribute. 2
-óó  ,E
+¡¡  ,E
 WebS1827)Remove this deprecated "align" attribute. 2
-òò  D
+¬¬  D
 WebS1827(Remove this deprecated "name" attribute. 2
-òò  ,E
+¬¬  ,E
 WebS1827)Remove this deprecated "align" attribute. 2
-ôô  D
+√√  D
 WebS1827(Remove this deprecated "name" attribute. 2
-ôô  ,G
-WebS1827)Remove this deprecated "align" attribute. 2ööÌ ÄF
-WebS1827(Remove this deprecated "name" attribute. 2ööÄ åE
+√√  ,E
 WebS1827)Remove this deprecated "align" attribute. 2
-õõ 0D
+ƒƒ /D
 WebS1827(Remove this deprecated "name" attribute. 2
-õõ0 <E
+ƒƒ/ ;E
 WebS1827)Remove this deprecated "align" attribute. 2
-úú  D
+≈≈ 0D
 WebS1827(Remove this deprecated "name" attribute. 2
-úú  ,G
-WebS1827)Remove this deprecated "align" attribute. 2ùùÌ ÄF
-WebS1827(Remove this deprecated "name" attribute. 2ùùÄ åG
-WebS1827)Remove this deprecated "align" attribute. 2ûûÓ ÅF
-WebS1827(Remove this deprecated "name" attribute. 2ûûÅ éE
+≈≈0 <E
 WebS1827)Remove this deprecated "align" attribute. 2
-üü  D
+∆∆  D
 WebS1827(Remove this deprecated "name" attribute. 2
-üü  -E
+∆∆  ,G
+WebS1827)Remove this deprecated "align" attribute. 2««Ω –F
+WebS1827(Remove this deprecated "name" attribute. 2««– ‹G
+WebS1827)Remove this deprecated "align" attribute. 2»»æ —F
+WebS1827(Remove this deprecated "name" attribute. 2»»— ﬁG
+WebS1827)Remove this deprecated "align" attribute. 2……æ —F
+WebS1827(Remove this deprecated "name" attribute. 2……— ﬁE
 WebS1827)Remove this deprecated "align" attribute. 2
-†† /D
+   0D
 WebS1827(Remove this deprecated "name" attribute. 2
-††/ <E
+  0 =E
 WebS1827)Remove this deprecated "align" attribute. 2
-°°  D
+ÀÀ  D
 WebS1827(Remove this deprecated "name" attribute. 2
-°°  -G
-WebS1827)Remove this deprecated "align" attribute. 2¢¢Ó ÅF
-WebS1827(Remove this deprecated "name" attribute. 2¢¢Å éG
-WebS1827)Remove this deprecated "align" attribute. 2££Ó ÅF
-WebS1827(Remove this deprecated "name" attribute. 2££Å éE
+ÀÀ  -G
+WebS1827)Remove this deprecated "align" attribute. 2ÃÃÛ ÜF
+WebS1827(Remove this deprecated "name" attribute. 2ÃÃÜ ìE
 WebS1827)Remove this deprecated "align" attribute. 2
-§§  D
+ÕÕ 0D
 WebS1827(Remove this deprecated "name" attribute. 2
-§§  -E
+ÕÕ0 =E
 WebS1827)Remove this deprecated "align" attribute. 2
-•• /D
+ŒŒ  D
 WebS1827(Remove this deprecated "name" attribute. 2
-••/ <E
+ŒŒ  -E
 WebS1827)Remove this deprecated "align" attribute. 2
-¶¶  D
+œœ /D
 WebS1827(Remove this deprecated "name" attribute. 2
-¶¶  -G
-WebS1827)Remove this deprecated "align" attribute. 2ßßÓ ÅF
-WebS1827(Remove this deprecated "name" attribute. 2ßßÅ éE
+œœ/ <E
 WebS1827)Remove this deprecated "align" attribute. 2
-®® 0D
+–– 0D
 WebS1827(Remove this deprecated "name" attribute. 2
-®®0 =E
+––0 =E
 WebS1827)Remove this deprecated "align" attribute. 2
-©©  D
+——  D
 WebS1827(Remove this deprecated "name" attribute. 2
-©©  -
+——  -

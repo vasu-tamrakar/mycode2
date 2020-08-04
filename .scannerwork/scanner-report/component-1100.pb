@@ -1,0 +1,1 @@
+Ì 2xmlXhr<vendor/phpunit/phpunit/tests/_files/configuration.suites.xml
