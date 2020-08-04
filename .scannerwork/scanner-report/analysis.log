@@ -50,16 +50,18 @@ Global server settings:
   - sonar.plsql.file.suffixes=sql,tab,pkb
   - sonar.tsql.file.suffixes=.tsql
 Project server settings:
-  - sonar.autoscan.enabled=true
 Project scanner properties:
+  - sonar.SONAR_TOKEN=52a12bf3d0221355e9f578061e1781a59dbb77f3
   - sonar.host.url=https://sonarcloud.io
   - sonar.organization=vasu-tamrakar
-  - sonar.php.coverage.reportPaths=./report/log/clover.xml
+  - sonar.php.coverage.reportPath=report/log/clover.xml
+  - sonar.php.tests.reportPath=reports/index.xml
   - sonar.projectBaseDir=C:\xampp\htdocs\mycode2
-  - sonar.projectKey=vasu-tamrakar_mycode2
+  - sonar.projectKey=mycode2
   - sonar.scanner.app=ScannerCLI
   - sonar.scanner.appVersion=4.4.0.2170
-  - sonar.sourceEncoding=UTF-8
-  - sonar.sources=.
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=./main
+  - sonar.tests=./test
   - sonar.verbose=true
   - sonar.working.directory=C:\xampp\htdocs\mycode2\.scannerwork

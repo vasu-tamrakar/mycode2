@@ -2,17 +2,17 @@
 <phpunit xmlns="https://schema.phpunit.de/coverage/1.0">
   <file name="App.php" path="\">
     <totals>
-      <lines total="12" comments="0" code="12" executable="4" executed="4" percent="100.00"/>
-      <methods count="2" tested="2" percent="100.00"/>
+      <lines total="20" comments="0" code="20" executable="8" executed="6" percent="75.00"/>
+      <methods count="2" tested="1" percent="50.00"/>
       <functions count="0" tested="0" percent="0"/>
-      <classes count="1" tested="1" percent="100.00"/>
+      <classes count="1" tested="0" percent="0.00"/>
       <traits count="0" tested="0" percent="0"/>
     </totals>
-    <class name="App" start="2" executable="4" executed="4" crap="2">
+    <class name="App" start="2" executable="8" executed="6" crap="4.25">
       <package full="" name="" sub="" category=""/>
       <namespace name=""/>
       <method name="getUser" signature="getUser()" start="5" end="7" crap="1" executable="1" executed="1" coverage="100"/>
-      <method name="setUser" signature="setUser($first,$last)" start="8" end="12" crap="1" executable="3" executed="3" coverage="100"/>
+      <method name="setUser" signature="setUser($first,$last)" start="8" end="20" crap="3.21" executable="7" executed="5" coverage="71.428571428571"/>
     </class>
     <coverage>
       <line nr="6">
@@ -24,7 +24,13 @@
       <line nr="10">
         <covered by="Test::testset"/>
       </line>
-      <line nr="11">
+      <line nr="14">
+        <covered by="Test::testset"/>
+      </line>
+      <line nr="15">
+        <covered by="Test::testset"/>
+      </line>
+      <line nr="19">
         <covered by="Test::testset"/>
       </line>
     </coverage>
@@ -104,16 +110,56 @@
       </line>
       <line no="9">
         <token name="T_WHITESPACE">        </token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_ISSET">isset</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$first</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="10">
+        <token name="T_WHITESPACE">            </token>
         <token name="T_VARIABLE">$this</token>
         <token name="T_OBJECT_OPERATOR">-&gt;</token>
         <token name="T_STRING">first_name</token>
         <token name="T_EQUAL">=</token>
-        <token name="T_WHITESPACE"> </token>
         <token name="T_VARIABLE">$first</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="10">
+      <line no="11">
         <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="12">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_VARIABLE">$this</token>
+        <token name="T_OBJECT_OPERATOR">-&gt;</token>
+        <token name="T_STRING">first_name</token>
+        <token name="T_EQUAL">=</token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">''</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="13">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="14">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_IF">if</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_ISSET">isset</token>
+        <token name="T_OPEN_BRACKET">(</token>
+        <token name="T_VARIABLE">$last</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_CLOSE_BRACKET">)</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="15">
+        <token name="T_WHITESPACE">            </token>
         <token name="T_VARIABLE">$this</token>
         <token name="T_OBJECT_OPERATOR">-&gt;</token>
         <token name="T_STRING">last_name</token>
@@ -121,18 +167,37 @@
         <token name="T_VARIABLE">$last</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="11">
+      <line no="16">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+        <token name="T_ELSE">else</token>
+        <token name="T_OPEN_CURLY">{</token>
+      </line>
+      <line no="17">
+        <token name="T_WHITESPACE">            </token>
+        <token name="T_VARIABLE">$this</token>
+        <token name="T_OBJECT_OPERATOR">-&gt;</token>
+        <token name="T_STRING">last_name</token>
+        <token name="T_EQUAL">=</token>
+        <token name="T_CONSTANT_ENCAPSED_STRING">''</token>
+        <token name="T_SEMICOLON">;</token>
+      </line>
+      <line no="18">
+        <token name="T_WHITESPACE">        </token>
+        <token name="T_CLOSE_CURLY">}</token>
+      </line>
+      <line no="19">
         <token name="T_WHITESPACE">        </token>
         <token name="T_RETURN">return</token>
         <token name="T_WHITESPACE"> </token>
         <token name="T_STRING">true</token>
         <token name="T_SEMICOLON">;</token>
       </line>
-      <line no="12">
+      <line no="20">
         <token name="T_WHITESPACE">    </token>
         <token name="T_CLOSE_CURLY">}</token>
       </line>
-      <line no="13">
+      <line no="21">
         <token name="T_CLOSE_CURLY">}</token>
       </line>
     </source>
