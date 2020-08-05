@@ -3,13 +3,26 @@ require __DIR__ .'/../vendor/autoload.php';
 use PHPUnit\Framework\TestCase;
 
 class Test extends TestCase {
+    /*
+    *   @ App::setUser
+    */
+    
     function testset(){
+        /*
+        *   @ App::setUser
+        */
         $user = new App();
-        $rt = $user->setUser('vtest','lastv');
+        $rt = $user->setUser('vtest','lastv',15);
         $this->assertTrue($rt);
-        
-        $rtdata = $user->getUser();
-        $this->assertArrayHasKey('first_name',$rtdata);
+        /*
+        *   @ App::getUser
+        */
+        $user->getUser();
+        /*
+        *   @ App::ageTest
+        */
+        $res = $user->ageTest(15);
+        $this->assertEquals('child',$res);
 
     } 
 }

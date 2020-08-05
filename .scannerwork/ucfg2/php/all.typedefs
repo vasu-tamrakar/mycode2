@@ -3464,8 +3464,9 @@ firstornew0illuminate\database\eloquent\builder::firstornew@
 setquery.illuminate\database\eloquent\builder::setquery:
 getquery.illuminate\database\eloquent\builder::getquery8
 orwhere-illuminate\database\eloquent\builder::orwhere<
-	getmodels/illuminate\database\eloquent\builder::getmodelsN
+	getmodels/illuminate\database\eloquent\builder::getmodelsl
 app
 setuserapp::setuser
+agetestapp::agetest
 getuserapp::getuser"	last_name"
-first_name
+first_name"age
